@@ -1,0 +1,31 @@
+22:52:15 DEBUG : Logs will be stored at 'C:/Users/Chick/Vivado Builds/FPGAPCIE/wksp/IDE.log'.
+22:52:17 ERROR : Workspace location C:\Users\Chick\Vivado Builds\FPGAPCIE\wksp contains spaces. Please switch to a workspace without spaces in its path.
+22:52:18 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\Chick\Vivado Builds\FPGAPCIE\wksp\temp_xsdb_launch_script.tcl
+22:52:18 INFO  : Registering command handlers for Vitis TCF services
+22:52:20 INFO  : Platform repository initialization has completed.
+22:52:22 ERROR : (XSDB Server)couldn't read file "C:\Users\Chick\Vivado": no such file or directory
+
+22:55:23 DEBUG : Logs will be stored at 'C:/Users/Chick/Vivado_Builds/FPGAPCIE/wksp/IDE.log'.
+22:55:26 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\Chick\Vivado_Builds\FPGAPCIE\wksp\temp_xsdb_launch_script.tcl
+22:55:38 INFO  : Registering command handlers for Vitis TCF services
+22:55:39 INFO  : Platform repository initialization has completed.
+22:55:43 INFO  : XSCT server has started successfully.
+22:55:46 INFO  : plnx-install-location is set to ''
+22:55:46 INFO  : Successfully done setting XSCT server connection channel  
+22:55:47 INFO  : Successfully done query RDI_DATADIR 
+22:55:47 INFO  : Successfully done setting workspace for the tool. 
+22:57:09 INFO  : Result from executing command 'getProjects': design_1_wrapper
+22:57:09 INFO  : Result from executing command 'getPlatforms': xilinx_vck190_base_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_vck190_base_202210_1/xilinx_vck190_base_202210_1.xpfm;xilinx_vck190_base_dfx_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_vck190_base_dfx_202210_1/xilinx_vck190_base_dfx_202210_1.xpfm;xilinx_vmk180_base_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_vmk180_base_202210_1/xilinx_vmk180_base_202210_1.xpfm;xilinx_zcu102_base_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_202210_1/xilinx_zcu102_base_202210_1.xpfm;xilinx_zcu102_base_dfx_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_dfx_202210_1/xilinx_zcu102_base_dfx_202210_1.xpfm;xilinx_zcu104_base_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu104_base_202210_1/xilinx_zcu104_base_202210_1.xpfm
+22:57:10 WARN  : An unexpected exception occurred in the module 'platform project logging'
+22:57:11 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+22:57:14 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+22:59:22 INFO  : No changes in MSS file content so sources will not be generated.
+19:40:16 DEBUG : Logs will be stored at 'C:/Users/Chick/Vivado_Builds/FPGAPCIE/wksp/IDE.log'.
+19:40:17 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\Chick\Vivado_Builds\FPGAPCIE\wksp\temp_xsdb_launch_script.tcl
+19:40:33 INFO  : Registering command handlers for Vitis TCF services
+19:40:34 INFO  : Platform repository initialization has completed.
+19:40:35 INFO  : XSCT server has started successfully.
+19:40:36 INFO  : plnx-install-location is set to ''
+19:40:36 INFO  : Successfully done setting XSCT server connection channel  
+19:40:36 INFO  : Successfully done query RDI_DATADIR 
+19:40:36 INFO  : Successfully done setting workspace for the tool. 

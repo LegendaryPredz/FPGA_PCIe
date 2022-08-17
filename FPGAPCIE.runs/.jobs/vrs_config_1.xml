@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="bd_d92b_smartconnect_0_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_smartconnect_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_vsc_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_vsc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_hsc_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_hsc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_input_size_set_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_input_size_set_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_ltr_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_ltr_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_csc_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_csc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_xbar_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_xbar_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_reset_sel_axis_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_reset_sel_axis_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_rst_axis_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_rst_axis_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_vcr_i_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_vcr_i_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_vcr_o_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_vcr_o_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_hcr_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_hcr_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slid_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slid_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slid_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slid_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slid_2_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slid_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slid_3_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slid_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slid_4_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slid_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slid_5_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slid_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slid_6_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slid_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slid_7_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slid_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_m00_regslice_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_m00_regslice_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_m01_regslice_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_m01_regslice_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slidr_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slidr_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_m02_regslice_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_m02_regslice_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slidr_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slidr_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_m04_regslice_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_m04_regslice_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slidr_2_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slidr_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_m05_regslice_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_m05_regslice_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slidr_3_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slidr_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_m06_regslice_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_m06_regslice_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slidr_4_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slidr_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_m07_regslice_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_m07_regslice_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slidr_5_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slidr_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_m08_regslice_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_m08_regslice_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="bd_d92b_auto_ss_slidr_6_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_auto_ss_slidr_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xdma_0_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_xdma_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_ddr4_0_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_ddr4_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_microblaze_0_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_microblaze_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_dlmb_v10_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_dlmb_v10_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_ilmb_v10_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_ilmb_v10_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_dlmb_bram_if_cntlr_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_dlmb_bram_if_cntlr_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_ilmb_bram_if_cntlr_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_ilmb_bram_if_cntlr_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_lmb_bram_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_lmb_bram_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_mdm_1_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_mdm_1_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_rst_ddr4_0_100M_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_rst_ddr4_0_100M_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_util_ds_buf_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_util_ds_buf_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_v_vid_in_axi4s_0_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_v_vid_in_axi4s_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_axi_vdma_0_1_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_axi_vdma_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_axi_smc_2_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_axi_smc_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_rst_ddr4_0_300M_2_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_rst_ddr4_0_300M_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_v_proc_ss_0_0_synth_1" LaunchDir="C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/design_1_v_proc_ss_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="bd_d92b_smartconnect_0_0_synth_1"/>
+		<Parent Id="bd_d92b_vsc_0_synth_1"/>
+		<Parent Id="bd_d92b_hsc_0_synth_1"/>
+		<Parent Id="bd_d92b_input_size_set_0_synth_1"/>
+		<Parent Id="bd_d92b_ltr_0_synth_1"/>
+		<Parent Id="bd_d92b_csc_0_synth_1"/>
+		<Parent Id="bd_d92b_xbar_0_synth_1"/>
+		<Parent Id="bd_d92b_reset_sel_axis_0_synth_1"/>
+		<Parent Id="bd_d92b_rst_axis_0_synth_1"/>
+		<Parent Id="bd_d92b_vcr_i_0_synth_1"/>
+		<Parent Id="bd_d92b_vcr_o_0_synth_1"/>
+		<Parent Id="bd_d92b_hcr_0_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slid_0_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slid_1_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slid_2_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slid_3_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slid_4_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slid_5_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slid_6_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slid_7_synth_1"/>
+		<Parent Id="bd_d92b_m00_regslice_0_synth_1"/>
+		<Parent Id="bd_d92b_m01_regslice_0_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slidr_0_synth_1"/>
+		<Parent Id="bd_d92b_m02_regslice_0_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slidr_1_synth_1"/>
+		<Parent Id="bd_d92b_m04_regslice_0_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slidr_2_synth_1"/>
+		<Parent Id="bd_d92b_m05_regslice_0_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slidr_3_synth_1"/>
+		<Parent Id="bd_d92b_m06_regslice_0_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slidr_4_synth_1"/>
+		<Parent Id="bd_d92b_m07_regslice_0_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slidr_5_synth_1"/>
+		<Parent Id="bd_d92b_m08_regslice_0_synth_1"/>
+		<Parent Id="bd_d92b_auto_ss_slidr_6_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+		<Parameter Name="runs.enableClusterConf" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

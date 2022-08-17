@@ -1,0 +1,36 @@
+
+*** Running vivado
+    with args -log bd_d92b_hcr_0.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source bd_d92b_hcr_0.tcl
+
+
+
+****** Vivado v2022.1 (64-bit)
+  **** SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+  **** IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+
+source bd_d92b_hcr_0.tcl -notrace
+
+****** Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+  **** SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+  **** IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+
+source C:/Xilinx/Vitis_HLS/2022.1/scripts/vitis_hls/hls.tcl -notrace
+INFO: [HLS 200-10] Running 'C:/Xilinx/Vitis_HLS/2022.1/bin/unwrapped/win64.o/vitis_hls.exe'
+INFO: [HLS 200-10] For user 'Chick' on host 'orionspc' (Windows NT_amd64 version 6.2) on Tue Aug 16 22:49:13 -0400 2022
+INFO: [HLS 200-10] In directory 'C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_hcr_0_synth_1'
+Sourcing Tcl script 'C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_hcr_0_synth_1/runhls.tcl'
+INFO: [HLS 200-1510] Running: open_project -reset prj 
+ERROR: [HLS 200-70] Project/solution path 'C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_hcr_0_synth_1/prj' contains illegal character ' '.
+command 'ap_source' returned error code
+    while executing
+"source {C:/Users/Chick/Vivado Builds/FPGAPCIE/FPGAPCIE.runs/bd_d92b_hcr_0_synth_1/runhls.tcl}"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel \#0 [list source $arg] "
+
+INFO: [HLS 200-112] Total CPU user time: 0 seconds. Total CPU system time: 0 seconds. Total elapsed time: 0.45 seconds; peak allocated memory: 0.598 MB.
+INFO: [Common 17-206] Exiting vitis_hls at Tue Aug 16 22:49:13 2022...
+ERROR: [Vivado 12-12726] HLS failed to export an IP: /prj/sol/impl/ip/component.xml
+INFO: [Common 17-206] Exiting Vivado at Tue Aug 16 22:49:14 2022...

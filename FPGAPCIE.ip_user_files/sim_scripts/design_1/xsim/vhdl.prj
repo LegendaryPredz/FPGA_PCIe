@@ -1,0 +1,97 @@
+vhdl xpm  \
+"C:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_VCOMP.vhd" \
+
+vhdl microblaze_v11_0_9  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/057e/hdl/microblaze_v11_0_vh_rfs.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../bd/design_1/ip/design_1_ddr4_0_1/bd_0/ip/ip_0/sim/bd_382b_microblaze_I_0.vhd" \
+
+vhdl lib_cdc_v1_0_2  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/ef1e/hdl/lib_cdc_v1_0_rfs.vhd" \
+
+vhdl proc_sys_reset_v5_0_13  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/8842/hdl/proc_sys_reset_v5_0_vh_rfs.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../bd/design_1/ip/design_1_ddr4_0_1/bd_0/ip/ip_1/sim/bd_382b_rst_0_0.vhd" \
+
+vhdl lmb_v10_v3_0_12  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/cd1d/hdl/lmb_v10_v3_0_vh_rfs.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../bd/design_1/ip/design_1_ddr4_0_1/bd_0/ip/ip_2/sim/bd_382b_ilmb_0.vhd" \
+"../../../bd/design_1/ip/design_1_ddr4_0_1/bd_0/ip/ip_3/sim/bd_382b_dlmb_0.vhd" \
+
+vhdl lmb_bram_if_cntlr_v4_0_21  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/a177/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../bd/design_1/ip/design_1_ddr4_0_1/bd_0/ip/ip_4/sim/bd_382b_dlmb_cntlr_0.vhd" \
+"../../../bd/design_1/ip/design_1_ddr4_0_1/bd_0/ip/ip_5/sim/bd_382b_ilmb_cntlr_0.vhd" \
+"../../../bd/design_1/ip/design_1_ddr4_0_1/bd_0/ip/ip_7/sim/bd_382b_second_dlmb_cntlr_0.vhd" \
+"../../../bd/design_1/ip/design_1_ddr4_0_1/bd_0/ip/ip_8/sim/bd_382b_second_ilmb_cntlr_0.vhd" \
+
+vhdl iomodule_v3_1_8  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/b8f2/hdl/iomodule_v3_1_vh_rfs.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../bd/design_1/ip/design_1_ddr4_0_1/bd_0/ip/ip_10/sim/bd_382b_iomodule_0_0.vhd" \
+"../../../bd/design_1/ip/design_1_microblaze_0_1/sim/design_1_microblaze_0_1.vhd" \
+"../../../bd/design_1/ip/design_1_dlmb_v10_1/sim/design_1_dlmb_v10_1.vhd" \
+"../../../bd/design_1/ip/design_1_ilmb_v10_1/sim/design_1_ilmb_v10_1.vhd" \
+"../../../bd/design_1/ip/design_1_dlmb_bram_if_cntlr_1/sim/design_1_dlmb_bram_if_cntlr_1.vhd" \
+"../../../bd/design_1/ip/design_1_ilmb_bram_if_cntlr_1/sim/design_1_ilmb_bram_if_cntlr_1.vhd" \
+
+vhdl axi_lite_ipif_v3_0_4  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/66ea/hdl/axi_lite_ipif_v3_0_vh_rfs.vhd" \
+
+vhdl mdm_v3_2_23  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/b8f4/hdl/mdm_v3_2_vh_rfs.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../bd/design_1/ip/design_1_mdm_1_1/sim/design_1_mdm_1_1.vhd" \
+"../../../bd/design_1/ip/design_1_rst_ddr4_0_100M_1/sim/design_1_rst_ddr4_0_100M_1.vhd" \
+"../../../bd/design_1/ip/design_1_util_ds_buf_1/util_ds_buf.vhd" \
+"../../../bd/design_1/ip/design_1_util_ds_buf_1/sim/design_1_util_ds_buf_1.vhd" \
+
+vhdl lib_pkg_v1_0_2  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/0513/hdl/lib_pkg_v1_0_rfs.vhd" \
+
+vhdl fifo_generator_v13_2_7  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/83df/hdl/fifo_generator_v13_2_rfs.vhd" \
+
+vhdl lib_fifo_v1_0_16  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/6c82/hdl/lib_fifo_v1_0_rfs.vhd" \
+
+vhdl lib_bmg_v1_0_14  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/3a3e/hdl/lib_bmg_v1_0_rfs.vhd" \
+
+vhdl lib_srl_fifo_v1_0_2  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/51ce/hdl/lib_srl_fifo_v1_0_rfs.vhd" \
+
+vhdl axi_datamover_v5_1_28  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/1bb8/hdl/axi_datamover_v5_1_vh_rfs.vhd" \
+
+vhdl axi_vdma_v6_3_14  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/fc4b/hdl/axi_vdma_v6_3_rfs.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../bd/design_1/ip/design_1_axi_vdma_0_1/sim/design_1_axi_vdma_0_1.vhd" \
+"../../../bd/design_1/ip/design_1_axi_smc_2/bd_0/ip/ip_1/sim/bd_6e42_psr0_0.vhd" \
+"../../../bd/design_1/ip/design_1_axi_smc_2/bd_0/ip/ip_2/sim/bd_6e42_psr_aclk_0.vhd" \
+"../../../bd/design_1/ip/design_1_axi_smc_2/bd_0/ip/ip_3/sim/bd_6e42_psr_aclk1_0.vhd" \
+"../../../bd/design_1/ip/design_1_rst_ddr4_0_300M_2/sim/design_1_rst_ddr4_0_300M_2.vhd" \
+"../../../bd/design_1/ip/design_1_v_proc_ss_0_0/bd_1/ip/ip_1/sim/bd_ec8a_psr_aclk_0.vhd" \
+
+vhdl interrupt_control_v3_1_4  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/a040/hdl/interrupt_control_v3_1_vh_rfs.vhd" \
+
+vhdl axi_gpio_v2_0_28  \
+"../../../../FPGAPCIE.gen/sources_1/bd/design_1/ipshared/3ed9/hdl/axi_gpio_v2_0_vh_rfs.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../bd/design_1/ip/design_1_v_proc_ss_0_0/bd_0/ip/ip_10/sim/bd_d92b_reset_sel_axis_0.vhd" \
+"../../../bd/design_1/ip/design_1_v_proc_ss_0_0/bd_0/ip/ip_11/sim/bd_d92b_rst_axis_0.vhd" \
+
+nosort
